@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="Barcodereader:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Barcodereader_jar</output-path>
+    <root id="archive" name="input text.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="D:/барик/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="input text" />
+    </root>
+  </artifact>
+</component>
